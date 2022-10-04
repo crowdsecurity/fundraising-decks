@@ -1,8 +1,8 @@
 # Fundraising Slides for CrowdSec
 ### TODO: Replace links
-* [Series A](https://www.slideshare.net/secret/4ipwt10TO4BZ5w)
+* [Series A](https://www.slideshare.net/secret/g99dITyUtfKYcF)
 * [Seed](https://www.slideshare.net/secret/4ipwt10TO4BZ5w)
-* [Pre-Seed / (Smart Money Round)](https://www.slideshare.net/secret/4ipwt10TO4BZ5w)
+* [Pre-Seed / (Smart Money Round)](https://www.slideshare.net/secret/nMdqGuuNPFGgB)
 
 
 You need a team of experts to create an efficient, quality-driven, and valuable product. Their market price is usually high, specifically in cybersecurity (but this is true of most forms of software development lately). 
