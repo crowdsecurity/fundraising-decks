@@ -1,5 +1,5 @@
 # Fundraising Slides for CrowdSec
-* [Series A](https://www.slideshare.net/CrowdSec/edit_my_uploads)
+* [Series A](https://www.slideshare.net/CrowdSec/crowdsec-around-deck-35-minpptx)
 * [Seed](https://www.slideshare.net/CrowdSec/crowdsec-seed-round-deck)
 * [Pre-Seed / (Smart Money Round)](https://www.slideshare.net/CrowdSec/crowdsec-smart-money-round-deck)
 
