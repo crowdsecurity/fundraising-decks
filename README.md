@@ -1,7 +1,7 @@
 # Fundraising Slides for CrowdSec
-* [Series A](https://www.slideshare.net/CrowdSec/crowdsec-around-deck-35-minpptx)
-* [Seed](https://www.slideshare.net/CrowdSec/crowdsec-seed-round-deck)
-* [Pre-Seed / (Smart Money Round)](https://www.slideshare.net/CrowdSec/crowdsec-smart-money-round-deck)
+* **Series A**: [Google Drive](https://docs.google.com/presentation/d/1akI0F7CYqff7xJuPklrQiYE4xymv6bU1FHHjvP9lBLY/edit#slide=id.g12c452509f1_2_41) | [SlideShare](https://www.slideshare.net/CrowdSec/crowdsec-around-deck-35-minpptx)
+* **Seed:** [Google Drive](https://docs.google.com/presentation/d/1kYInfq5zgz2S8P2PAAcDRHPfOgfwdJ-ShP02Ug8Tmsw) | [SlideShare](https://www.slideshare.net/CrowdSec/crowdsec-seed-round-deck)
+* **Pre-Seed / (Smart Money Round):** [Google Drive](https://docs.google.com/presentation/d/1H-Gwa8K4UIHeqcLsPaAGNbKHD04k8GHI1ffB5NImNZU/) | [SlideShare](https://www.slideshare.net/CrowdSec/crowdsec-smart-money-round-deck)
 
 You need a team of experts to create an efficient, quality-driven, and valuable product. Their market price is usually high, specifically in cybersecurity (but this is true of most forms of software development lately). 
 
